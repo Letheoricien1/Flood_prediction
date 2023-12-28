@@ -7,6 +7,8 @@ This project aims to predict flooding in northern Cameroon during periods of hea
 This project is designed to deliver reliable predictions on flooding in northern Cameroon, with a specific focus on periods of heavy precipitation. It employs machine learning models powered by data from previous months to enhance prediction accuracy
 # Installation
 run the following command
+
+
 pip install -r requirements.txt
 
 # Usage
